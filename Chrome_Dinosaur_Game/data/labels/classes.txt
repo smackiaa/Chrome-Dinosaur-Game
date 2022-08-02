@@ -1,0 +1,5 @@
+dinosaur
+tree
+score
+game_over
+bird
